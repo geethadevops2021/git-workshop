@@ -1,1 +1,1 @@
-# git-workshop by Geetha
+# git-workshop by Geetha atteli
